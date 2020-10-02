@@ -1,4 +1,4 @@
-# Create swapfile for Linux server
+# Create swapfile on Linux server
 Scripts to simple create swapfile for your Linux servers
 
 # How to create swap file?
