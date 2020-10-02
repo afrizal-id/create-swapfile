@@ -1,5 +1,5 @@
 # Create swapfile on Linux server
-The simple shell scripts to create swapfile on your Linux servers
+The simple bash scripts to create swapfile on your Linux servers
 
 # How to create swap file?
 1. SSH login to your server as root
